@@ -1,7 +1,6 @@
 package geekbrains.lession_1;
-
 public class HomeWork_1 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // переименовал работы, чтобы ьупо не повторять discription
         HomeWork_2();
         HomeWork_3();
         HomeWork_4();
