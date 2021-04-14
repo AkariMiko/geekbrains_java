@@ -29,7 +29,7 @@ public class Employee {
         return email;
     }
 
-    public void setNumber(int number) {
+    public void getNumber() {
         this.number = number;
     }
 
